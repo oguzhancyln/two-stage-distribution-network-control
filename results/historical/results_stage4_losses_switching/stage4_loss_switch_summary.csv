@@ -1,0 +1,7 @@
+System,Case,ActiveLossEnergy_kWh,ReactiveLossEnergy_kVArh,InitialLineStateChanges,SubsequentLineStateChanges,TotalLineStateChanges,InitialCapStepChanges,SubsequentCapStepChanges,TotalCapStepChanges,DroopAcceptedSteps,DroopRejectedSteps
+33bus,No control,2875.09033544668,1912.89333533071,0,0,0,0,0,0,0,0
+33bus,DNR+CAP only,1819.33078074967,1376.89247818931,8,8,16,13,8,21,0,0
+33bus,Proposed hybrid,1816.0369242562,1377.2515518889,8,8,16,13,8,21,27,0
+69bus,No control,3351.78085580743,1471.52705787164,0,0,0,0,0,0,0,0
+69bus,DNR+CAP only,1843.41494334364,954.390890943454,10,16,26,14,13,27,0,0
+69bus,Proposed hybrid,1805.37707563347,941.879874662882,10,16,26,14,13,27,26,1

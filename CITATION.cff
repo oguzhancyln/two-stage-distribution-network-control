@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite the associated manuscript when using this research code or data. Update with the final journal DOI when available."
+type: software
+title: "Two-stage voltage control in PV-rich distribution networks: research code and verification data"
+version: "0.1.0"
+authors:
+  - family-names: Ceylan
+    given-names: Oğuzhan
+  - family-names: Savaşçı
+    given-names: Alper
+  - family-names: Polycarpou
+    given-names: Alexis
